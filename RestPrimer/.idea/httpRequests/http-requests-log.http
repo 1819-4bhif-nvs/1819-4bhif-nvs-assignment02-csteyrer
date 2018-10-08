@@ -1,0 +1,24 @@
+GET http://localhost:8080/restprimer/rs/time
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-24T114352.200.txt
+
+###
+
+GET http://localhost:8080/rs
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-24T114248.404.html
+
+###
+
+GET http://localhost:8080/rs
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-24T114200.404.html
+
+###
+
